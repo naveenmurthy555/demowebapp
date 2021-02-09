@@ -13,7 +13,8 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Naveen and Rakshit on behalf of Infinito Solutions</h2>
       <h3 class="text-center">Welcome to Hotel Jail CI Naveen and Rakshit</h3>
-     
+ 
+      
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
